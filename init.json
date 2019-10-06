@@ -1,0 +1,9 @@
+{
+	"label" : "rcCodeMirror",
+	"icon" : "logo.png",
+	"footScript" : ["main.js","js/rcCodeMirror.js"],
+	"css" : ["css/rcCodeMirror.css"],
+	"addMenu" : "rcCodeMirror.zip",
+	"shortDesc": "rcCodeMirror is a JavaScript component that is developed by ragasave which provides a code editor in the browser. It has a rich programming API and a focus on extensibility."
+
+}

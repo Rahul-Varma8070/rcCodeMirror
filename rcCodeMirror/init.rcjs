@@ -1,0 +1,4 @@
+addMenu({
+	icon : "rc-glyph-icon-embed2",
+	label : 'rcCodeMirror'
+});
